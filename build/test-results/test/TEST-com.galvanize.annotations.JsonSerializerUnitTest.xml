@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.galvanize.annotations.JsonSerializerUnitTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2019-06-19T17:41:06" hostname="gRobWing.local" time="0.022">
+<testsuite name="com.galvanize.annotations.JsonSerializerUnitTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2021-05-04T19:38:42" hostname="Naru" time="0.057">
   <properties/>
-  <testcase name="givenObjectSerializedThenTrueReturned" classname="com.galvanize.annotations.JsonSerializerUnitTest" time="0.016"/>
-  <testcase name="givenObjectNotSerializedThenExceptionThrown" classname="com.galvanize.annotations.JsonSerializerUnitTest" time="0.005"/>
+  <testcase name="givenObjectSerializedThenTrueReturned" classname="com.galvanize.annotations.JsonSerializerUnitTest" time="0.051"/>
+  <testcase name="givenObjectNotSerializedThenExceptionThrown" classname="com.galvanize.annotations.JsonSerializerUnitTest" time="0.006"/>
   <system-out><![CDATA[{"personAge":"34","firstName":"Soufiane","lastName":"Cheouati"}
 ]]></system-out>
   <system-err><![CDATA[]]></system-err>
