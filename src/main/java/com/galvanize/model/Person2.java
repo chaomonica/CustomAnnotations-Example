@@ -25,4 +25,12 @@ public class Person2 {
         this.lastName = this.lastName.substring(0, 1).toUpperCase()
                 + this.lastName.substring(1);
     }
+
+    public String getAge() {
+        return age;
+    }
+
+    public void setAge(String age) {
+        this.age = age;
+    }
 }
